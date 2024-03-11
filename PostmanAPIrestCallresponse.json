@@ -1,0 +1,30 @@
+{
+  "args": {},
+  "data": {
+    "username": "wonder_woman",
+    "name": "Diana Prince",
+    "role": "Superhero"
+  },
+  "files": {},
+  "form": {},
+  "headers": {
+    "x-forwarded-proto": "http",
+    "x-forwarded-port": "80",
+    "host": "postman-echo.com",
+    "x-amzn-trace-id": "Root=1-65ee79ae-048a0d515d2f8bf163b099bf",
+    "content-length": "87",
+    "content-type": "application/json",
+    "user-agent": "PostmanRuntime/7.36.3",
+    "accept": "*/*",
+    "cache-control": "no-cache",
+    "postman-token": "1cc15163-7360-45ad-a302-502f2600ecf9",
+    "accept-encoding": "gzip, deflate, br",
+    "cookie": "Cookie_1=value; sails.sid=s%3AfA30j3Wne3AvXwP-dGWkWNPcmY8ft0o0.iWRWV98G4r1w2PKBNQe2CYv7D5g68rF3hgUH1EXidb0"
+  },
+  "json": {
+    "username": "wonder_woman",
+    "name": "Diana Prince",
+    "role": "Superhero"
+  },
+  "url": "http://postman-echo.com/post"
+}
